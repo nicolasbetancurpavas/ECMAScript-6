@@ -3,7 +3,7 @@
 
 - ES6 tiene cambios significativos entre sus funcionalidades que nos permite optimizar nuestro desarrollo
 
-## CARPETA SRC
+## Carpeta Src
 
 - alli encontraras las diferentes funcionalidades que proporciona ECMASCRIPT6 en adelante 
 
