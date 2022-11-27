@@ -1,4 +1,4 @@
-## Especificacion estandar Javacript desde el 2015 Hasta 2022
+## Especificacion estandar Javacript desde el 2015 Hasta 2021
 
 
 - ES6 tiene cambios significativos entre sus funcionalidades que nos permite optimizar nuestro desarrollo
